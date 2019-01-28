@@ -1,2 +1,8 @@
 - url: /
   title: Home
+- url: /about
+  title: About
+- url: /music
+  title: Music
+- url: /movie
+  title: Movie
