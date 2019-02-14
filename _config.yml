@@ -12,3 +12,4 @@ baseurl:
 # color_scheme: azul|ruby|amber|avocado
 color_scheme: azul
 markdown: kramdown
+toc_levels: 1..2
