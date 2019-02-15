@@ -405,3 +405,35 @@ Configuration file: /Users/zhangbin/blog/_config.yml
                     nohup.out
                     ...done in 0.561468 seconds.
                     
+[2019-02-15 23:01:02] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2019-02-15 23:01:02] ERROR `/apple-touch-icon.png' not found.
+[2019-02-15 23:01:02] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2019-02-15 23:01:02] ERROR `/apple-touch-icon.png' not found.
+      Regenerating: 1 file(s) changed at 2019-02-15 23:06:27
+                    nohup.out
+                    ...done in 0.55545 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:07:17
+                    _data/links.yml
+                    ...done in 0.582589 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:07:35
+                    nohup.out
+                    ...done in 0.536546 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:07:50
+                    nohup.out
+                    ...done in 0.607374 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:07:57
+                    nohup.out
+                    ...done in 0.540889 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:07:58
+                    Reading/index.md
+                    ...done in 0.622216 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:08:21
+                    Reading/index.md
+                    ...done in 0.587452 seconds.
+                    
