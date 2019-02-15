@@ -437,3 +437,266 @@ Configuration file: /Users/zhangbin/blog/_config.yml
                     Reading/index.md
                     ...done in 0.587452 seconds.
                     
+      Regenerating: 1 file(s) changed at 2019-02-15 23:10:26
+                    nohup.out
+                    ...done in 0.603595 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:10:50
+                    nohup.out
+                    ...done in 0.555119 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 23:10:53
+                    _posts/2017-07-11-XML-学习.md
+                    _posts/2015-07-11-XML-学习.md
+                    ...done in 0.606204 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:11:01
+                    _posts/2017-07-11-XML-学习.md
+                    ...done in 0.590973 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:11:44
+                    _posts/2017-07-11-XML-学习.md
+                    ...done in 0.610489 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:13:34
+                    _posts/2017-07-11-XML-学习.md
+                    ...done in 0.609856 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:13:50
+                    nohup.out
+                    ...done in 0.661275 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:13:54
+                    nohup.out
+                    ...done in 0.573194 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 23:13:59
+                    _posts/2017-07-11-Java-反射.md
+                    _posts/2015-07-11-Java-反射.md
+                    ...done in 0.574607 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:14:17
+                    _posts/2017-07-11-Java-反射.md
+                    ...done in 0.619824 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:14:56
+                    _posts/2017-07-11-Java-反射.md
+                    ...done in 0.62381 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 23:15:32
+                    _posts/2017-07-11-Java学习-反射.md
+                    _posts/2017-07-11-Java-反射.md
+                    ...done in 0.638634 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:15:41
+                    nohup.out
+                    ...done in 0.567832 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 23:15:49
+                    _posts/2017-07-11-Java学习-XML-学习.md
+                    _posts/2017-07-11-XML-学习.md
+                    ...done in 0.584165 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:16:48
+                    _posts/2017-07-11-XML-学习.md
+                    ...done in 0.649371 seconds.
+                    
+[2019-02-15 23:16:51] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:16 
+	/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/webrick/server.rb:314:in `block in start_thread'
+[2019-02-15 23:16:51] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:18 
+	/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/webrick/server.rb:314:in `block in start_thread'
+[2019-02-15 23:16:51] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/webrick/server.rb:314:in `block in start_thread'
+      Regenerating: 2 file(s) changed at 2019-02-15 23:17:11
+                    nohup.out
+                    _posts/2017-07-11-XML-学习.md
+                    ...done in 0.612753 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:17:21
+                    _posts/2017-07-11-Java学习-XML-学习.md
+                    ...done in 0.637919 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:17:25
+                    _posts/2017-07-11-Java-反射.md
+                    ...done in 0.658327 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 23:17:38
+                    nohup.out
+                    _posts/2017-07-11-Java-反射.md
+                    ...done in 0.652821 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:17:41
+                    _posts/2017-07-11-Java-反射.md
+                    ...done in 0.676784 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 23:17:59
+                    nohup.out
+                    _posts/2017-07-11-Java-反射.md
+                    ...done in 0.63375 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:18:06
+                    nohup.out
+                    ...done in 0.678599 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:18:11
+                    nohup.out
+                    ...done in 0.635603 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:18:23
+                    nohup.out
+                    ...done in 1.012517 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:18:37
+                    _posts/2017-07-11-Java-反射.md
+                    ...done in 0.700399 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:18:49
+                    nohup.out
+                    ...done in 0.649608 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:18:55
+                    _posts/2017-07-11-Java学习-反射.md
+                    ...done in 0.653518 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:19:06
+                    nohup.out
+                    ...done in 0.632024 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:19:29
+                    _posts/2017-07-11-Java-反射.md
+                    ...done in 0.650288 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:19:54
+                    _posts/2017-07-11-Java学习-XML-学习.md
+                    ...done in 0.599372 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:19:59
+                    _posts/2017-07-11-Java学习-XML-学习.md
+                    ...done in 0.626273 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:20:08
+                    nohup.out
+                    ...done in 0.634321 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:22:09
+                    nohup.out
+                    ...done in 0.579885 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 23:22:11
+                    _posts/2017-07-11-Java-IO-学习.md
+                    _posts/2015-07-11-Java-IO-学习.md
+                    ...done in 0.677516 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 23:22:23
+                    _posts/2017-07-12-Java-NIO-学习.md
+                    _posts/2015-07-12-Java-NIO-学习.md
+                    ...done in 0.606924 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:22:31
+                    nohup.out
+                    ...done in 0.634808 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:22:45
+                    _posts/2017-07-11-Java-IO-学习.md
+                    ...done in 0.601791 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:22:52
+                    _posts/2017-07-11-Java-IO-学习.md
+                    ...done in 0.656611 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:23:15
+                    _posts/2017-07-11-Java-IO-学习.md
+                    ...done in 0.70317 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:23:30
+                    _posts/2017-07-11-Java-IO-学习.md
+                    ...done in 0.666406 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:23:34
+                    _posts/2017-07-11-Java-IO-学习.md
+                    ...done in 0.61448 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:23:44
+                    _posts/2017-07-11-Java-IO-学习.md
+                    ...done in 0.677062 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:23:47
+                    _posts/2017-07-11-Java-IO-学习.md
+                    ...done in 0.618358 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:24:38
+                    _posts/2017-07-12-Java-NIO-学习.md
+                    ...done in 0.64003 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:24:48
+                    _posts/2017-07-12-Java-NIO-学习.md
+                    ...done in 0.621189 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:25:13
+                    _posts/2017-07-12-Java-NIO-学习.md
+                    ...done in 0.728725 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:25:17
+                    _posts/2017-07-12-Java-NIO-学习.md
+                    ...done in 0.774582 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:25:21
+                    _posts/2017-07-12-Java-NIO-学习.md
+                    ...done in 0.624968 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:29:55
+                    nohup.out
+                    ...done in 0.607407 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 23:30:09
+                    _posts/2018-04-23-使用Echarts制作散点图-Excel-导入数据方式.md
+                    _posts/2015-07-11-使用Echarts制作散点图-Excel-导入数据方式.md
+                    ...done in 0.653349 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:30:16
+                    nohup.out
+                    ...done in 0.60826 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 23:30:24
+                    _posts/2018-05-31-Java-Web中文乱码问题解决方法.md
+                    _posts/2015-07-31-Java-Web中文乱码问题解决方法.md
+                    ...done in 0.627847 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:30:31
+                    nohup.out
+                    ...done in 0.632424 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:31:27
+                    _posts/2018-04-23-使用Echarts制作散点图-Excel-导入数据方式.md
+                    ...done in 0.683486 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:31:36
+                    _posts/2018-04-23-使用Echarts制作散点图-Excel-导入数据方式.md
+                    ...done in 0.670233 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:31:39
+                    _posts/2018-04-23-使用Echarts制作散点图-Excel-导入数据方式.md
+                    ...done in 0.676175 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:32:05
+                    _posts/2018-05-31-Java-Web中文乱码问题解决方法.md
+                    ...done in 0.694832 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:32:15
+                    _posts/2018-05-31-Java-Web中文乱码问题解决方法.md
+                    ...done in 0.656349 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:32:17
+                    _posts/2018-05-31-Java-Web中文乱码问题解决方法.md
+                    ...done in 0.72398 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 23:32:19
+                    _posts/2018-05-31-Java-Web中文乱码问题解决方法.md
+                    ...done in 0.650685 seconds.
+                    
