@@ -1,0 +1,407 @@
+/Library/Ruby/Site/2.3.0/rubygems.rb:289:in `find_spec_for_exe': can't find gem bundler (>= 0.a) with executable bundle (Gem::GemNotFoundException)
+	from /Library/Ruby/Site/2.3.0/rubygems.rb:308:in `activate_bin_path'
+	from /usr/local/bin/bundle:23:in `<main>'
+/Library/Ruby/Site/2.3.0/rubygems.rb:289:in `find_spec_for_exe': can't find gem bundler (>= 0.a) with executable bundle (Gem::GemNotFoundException)
+	from /Library/Ruby/Site/2.3.0/rubygems.rb:308:in `activate_bin_path'
+	from /usr/local/bin/bundle:23:in `<main>'
+Configuration file: /Users/zhangbin/blog/_config.yml
+            Source: /Users/zhangbin/blog
+       Destination: /Users/zhangbin/blog/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+jekyll 3.8.5 | Error:  Permission denied @ rb_sysopen - /Users/zhangbin/blog/_site/404.html
+Configuration file: /Users/zhangbin/blog/_config.yml
+            Source: /Users/zhangbin/blog
+       Destination: /Users/zhangbin/blog/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+jekyll 3.8.5 | Error:  Permission denied @ rb_sysopen - /Users/zhangbin/blog/_site/404.html
+nohup: sudoekyll: No such file or directory
+Configuration file: /Users/zhangbin/blog/_config.yml
+            Source: /Users/zhangbin/blog
+       Destination: /Users/zhangbin/blog/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.793 seconds.
+ Auto-regeneration: enabled for '/Users/zhangbin/blog'
+    Server address: http://127.0.0.1:4000
+  Server running... press ctrl-c to stop.
+      Regenerating: 2 file(s) changed at 2019-02-15 21:40:39
+                    nohup.out
+                    new_post.sh
+                    ...done in 0.542307 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 21:40:45
+                    new_post.sh
+                    nohup.out
+                    ...done in 0.540098 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 21:40:59
+                    nohup.out
+                    ...done in 0.579961 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 21:41:30
+                    new_post.sh
+                    nohup.out
+                    ...done in 0.532908 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 21:41:52
+                    new_post.sh
+                    nohup.out
+                    ...done in 0.551635 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 21:42:06
+                    _posts/2019-02-15-.md
+                    ...done in 0.535097 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 21:43:00
+                    nohup.out
+                    _posts/2019-02-15-.md
+                    ...done in 0.630972 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 21:43:34
+                    _posts/2019-02-15-have-a-good-temper.md
+                    ...done in 0.5506 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 21:43:55
+                    nohup.out
+                    ...done in 0.533244 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 21:53:24
+                    new_post.sh
+                    nohup.out
+                    ...done in 0.63048 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 21:53:43
+                    nohup.out
+                    _posts/2019-02-15-have-a-good-temper.md
+                    ...done in 0.616816 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 21:53:58
+                    _posts/2019-02-15-have-a-good-temper.md
+                    ...done in 0.559981 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 21:55:10
+                    nohup.out
+                    draft_template.md
+                    ...done in 0.519009 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 21:55:28
+                    nohup.out
+                    ...done in 0.557843 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 21:55:34
+                    nohup.out
+                    ...done in 0.540359 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 21:56:16
+                    nohup.out
+                    ...done in 0.587099 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 21:56:19
+                    draft_template.md
+                    nohup.out
+                    ...done in 0.568436 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 21:56:30
+                    nohup.out
+                    ...done in 0.570366 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 21:56:31
+                    _posts/2019-02-15-have-a-good-temper.md
+                    ...done in 0.584068 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 21:56:38
+                    _posts/2019-02-15-have-a-good-temper.md
+                    ...done in 0.559618 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 21:56:52
+                    nohup.out
+                    ...done in 0.553227 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 22:01:14
+                    draft_template.md
+                    nohup.out
+                    ...done in 0.600295 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:01:41
+                    _posts/2019-02-15-have-a-good-temper.md
+                    ...done in 0.576309 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:01:45
+                    _posts/2019-02-15-have-a-good-temper.md
+                    ...done in 0.561537 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:01:53
+                    nohup.out
+                    ...done in 0.615114 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:02:10
+                    nohup.out
+                    ...done in 0.555342 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:05:20
+                    nohup.out
+                    ...done in 0.677667 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:05:28
+                    nohup.out
+                    ...done in 0.556245 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:05:33
+                    nohup.out
+                    ...done in 0.575404 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:05:43
+                    nohup.out
+                    ...done in 0.683204 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 22:07:40
+                    new_post.sh
+                    nohup.out
+                    ...done in 0.639664 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 22:28:50
+                    new_post.sh
+                    nohup.out
+                    ...done in 0.587566 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:29:01
+                    nohup.out
+                    ...done in 0.66377 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:29:02
+                    _posts/2019-02-15-have-a-good-temper.md
+                    ...done in 0.5804 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:29:06
+                    _posts/2019-02-15-have-a-good-temper.md
+                    ...done in 0.550167 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:29:13
+                    nohup.out
+                    ...done in 0.54855 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:29:30
+                    _posts/2019-02-15-have-a-good-temper.md
+                    ...done in 0.58485 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 22:29:38
+                    new_post.sh
+                    nohup.out
+                    ...done in 0.565538 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 22:30:29
+                    new_post.sh
+                    nohup.out
+                    ...done in 0.545071 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:30:33
+                    _posts/2019-02-15-have-a-good-temper.md
+                    ...done in 0.555633 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:30:42
+                    nohup.out
+                    ...done in 0.598368 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:30:48
+                    _posts/2019-02-15-have-a-good-temper.md
+                    ...done in 0.602401 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 22:31:39
+                    new_post.sh
+                    nohup.out
+                    ...done in 0.614474 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:31:46
+                    _posts/2019-02-15-have-a-good-temper.md
+                    ...done in 0.543842 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:31:54
+                    nohup.out
+                    ...done in 0.580509 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 22:32:48
+                    new_post.sh
+                    nohup.out
+                    ...done in 0.575404 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:32:57
+                    _posts/2019-02-15-have-a-good-temper.md
+                    ...done in 0.596166 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:33:01
+                    _posts/2019-02-15-have-a-good-temper.md
+                    ...done in 0.576421 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:33:09
+                    nohup.out
+                    ...done in 0.549521 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 22:36:00
+                    new_post.sh
+                    nohup.out
+                    ...done in 0.596699 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 22:37:14
+                    new_post.sh
+                    nohup.out
+                    ...done in 0.593485 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 22:38:02
+                    new_post.sh
+                    nohup.out
+                    ...done in 0.565336 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:40:50
+                    nohup.out
+                    ...done in 0.623171 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 22:40:55
+                    draft_template.md
+                    nohup.out
+                    ...done in 0.606227 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 22:41:44
+                    new_post.sh
+                    nohup.out
+                    ...done in 0.583118 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 22:42:28
+                    new_post.sh
+                    nohup.out
+                    ...done in 0.565968 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 22:42:54
+                    new_post.sh
+                    nohup.out
+                    ...done in 0.640509 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:43:25
+                    nohup.out
+                    ...done in 0.573686 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:43:26
+                    _posts/2019-02-15-have-a-good-temper.md
+                    ...done in 0.60144 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:43:29
+                    _posts/2019-02-15-have-a-good-temper.md
+[31m             Error: YAML Exception reading /Users/zhangbin/blog/_posts/2019-02-15-have-a-good-temper.md: (<unknown>): mapping values are not allowed in this context at line 5 column 11[0m
+                    ...done in 0.543089 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:43:37
+                    nohup.out
+[31m             Error: YAML Exception reading /Users/zhangbin/blog/_posts/2019-02-15-have-a-good-temper.md: (<unknown>): mapping values are not allowed in this context at line 5 column 11[0m
+                    ...done in 0.548076 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 22:44:22
+                    new_post.sh
+                    nohup.out
+[31m             Error: YAML Exception reading /Users/zhangbin/blog/_posts/2019-02-15-have-a-good-temper.md: (<unknown>): mapping values are not allowed in this context at line 5 column 11[0m
+                    ...done in 0.581363 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:53:02
+                    nohup.out
+[31m             Error: YAML Exception reading /Users/zhangbin/blog/_posts/2019-02-15-have-a-good-temper.md: (<unknown>): mapping values are not allowed in this context at line 5 column 11[0m
+                    ...done in 0.554658 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 22:53:40
+                    new_post.sh
+                    nohup.out
+[31m             Error: YAML Exception reading /Users/zhangbin/blog/_posts/2019-02-15-have-a-good-temper.md: (<unknown>): mapping values are not allowed in this context at line 5 column 11[0m
+                    ...done in 0.595746 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 22:53:51
+                    new_post.sh
+                    nohup.out
+[31m             Error: YAML Exception reading /Users/zhangbin/blog/_posts/2019-02-15-have-a-good-temper.md: (<unknown>): mapping values are not allowed in this context at line 5 column 11[0m
+                    ...done in 0.573839 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 22:54:09
+                    nohup.out
+                    _posts/2019-02-15-have-a-good-temper.md
+                    ...done in 0.595939 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:54:42
+                    _posts/2019-02-15-有个好脾气.md
+                    ...done in 0.590113 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 22:55:53
+                    nohup.out
+                    _posts/2019-02-15-有个好脾气.md
+                    ...done in 0.59758 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:56:14
+                    _posts/2019-02-15-有个好脾气.md
+                    ...done in 1.078446 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:56:42
+                    nohup.out
+                    ...done in 0.642685 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:56:57
+                    nohup.out
+                    ...done in 0.687017 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 22:57:14
+                    draft_template.md
+                    nohup.out
+                    ...done in 0.569444 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 22:57:28
+                    draft_template.md
+                    nohup.out
+                    ...done in 0.583932 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 22:57:40
+                    new_post.sh
+                    nohup.out
+                    ...done in 0.639888 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 22:57:54
+                    nohup.out
+                    _posts/2019-02-15-有个好脾气.md
+                    ...done in 0.607973 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:58:00
+                    _posts/2019-02-15-有个好脾气.md
+                    ...done in 0.811867 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:58:12
+                    _posts/2019-02-15-有个好脾气.md
+                    ...done in 0.554284 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 22:59:30
+                    nohup.out
+                    commit_post.sh
+                    ...done in 0.535914 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:59:42
+                    nohup.out
+                    ...done in 0.620448 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-15 22:59:44
+                    nohup.out
+                    ...done in 0.55915 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 23:00:09
+                    commit_post.sh
+                    nohup.out
+                    ...done in 0.586225 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 23:00:22
+                    commit_post.sh
+                    nohup.out
+                    ...done in 0.597371 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 23:00:30
+                    commit_post.sh
+                    nohup.out
+                    ...done in 0.610335 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-02-15 23:00:39
+                    commit_post.sh
+                    nohup.out
+                    ...done in 0.561468 seconds.
+                    
