@@ -5,7 +5,11 @@ date: 2015-07-09 19:53:48
 tags: [技术交流]
 
 ---
-最近花了几天时间利用**Hexo**和**Github**搭建自己的个人博客网站，虽然中间的过程也是折腾够了，但是结果还是非常令人满意的，毕竟现在网站已经跑起来，独乐乐不如众乐乐，所以决定写这篇文章，也给大家介绍一下经验，顺便也对**Markdown**写博客练一下手。好了，让我们进入正题吧! <!-- more -->
+
+* 目录
+{:toc #markdown-toc}
+
+**摘要** 最近花了几天时间利用**Hexo**和**Github**搭建自己的个人博客网站，虽然中间的过程也是折腾够了，但是结果还是非常令人满意的，毕竟现在网站已经跑起来，独乐乐不如众乐乐，所以决定写这篇文章，也给大家介绍一下经验，顺便也对**Markdown**写博客练一下手。好了，让我们进入正题吧! <!-- more -->
 
 ### 环境搭建
 
@@ -63,7 +67,7 @@ Hexo博客的主配置在**MyHexoBlog**目录下的**_config.yml**文件，选�
 
 下面介绍Hexo博客的一些主要配置。
 
-```
+```yaml
 # Hexo Configuration
 ## Docs: http://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
@@ -168,7 +172,7 @@ Hexo默认主题是landscape放置在MyHexoBlog主目录下的themes目录下。
 下载下来的yilia主题，其实我们也可以做很多配置，主题配置文件存在于themes/yilia/下，也是_config.yml文件，与主配置文件一样，进行你自己的定制就可以了。
 
 这里介绍一个添加**fork me on github**到主题上的tip，进入themes/yilia/layout下，打开编辑layout.ejs文件，我所说的一切打开和编辑工作最好是在类似于notepad++或sublime text这种富文本编辑器中进行。在layout.ejs文件中的</body>标签之前加上下面这句：
-```
+```html
 <a href="https://github.com/zbvae"><img style="z-index:9999; position: absolute; top: 0; left: 0; border: 0;" src="https://camo.githubusercontent.com/82b228a3648bf44fc1163ef44c62fcc60081495e/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f6c6566745f7265645f6161303030302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_left_red_aa0000.png"></a>
 ```
 
