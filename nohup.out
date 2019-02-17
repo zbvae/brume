@@ -1494,3 +1494,43 @@ Configuration file: /Users/zhangbin/blog/_config.yml
                     nohup.out
                     ...done in 0.844626 seconds.
                     
+      Regenerating: 1 file(s) changed at 2019-02-17 23:00:57
+                    nohup.out
+                    ...done in 0.860104 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-17 23:01:09
+                    nohup.out
+                    ...done in 0.96917 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-17 23:01:10
+                    nohup.out
+                    ...done in 0.913887 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-17 23:01:14
+                    nohup.out
+                    ...done in 0.881072 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-17 23:01:19
+                    nohup.out
+                    ...done in 0.799567 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-17 23:01:26
+                    nohup.out
+                    ...done in 0.890407 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-17 23:02:43
+                    _posts/2015-07-11-正则表达式.md
+                    ...done in 0.855822 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-17 23:03:58
+                    _posts/2015-07-11-正则表达式.md
+                    ...done in 0.831653 seconds.
+                    
+[2019-02-17 23:04:02] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:16 
+	/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/webrick/server.rb:314:in `block in start_thread'
+      Regenerating: 1 file(s) changed at 2019-02-17 23:04:43
+                    _posts/2015-07-11-正则表达式.md
+                    ...done in 0.86408 seconds.
+                    
