@@ -13,8 +13,3 @@ color_scheme: azul
 markdown: kramdown
 toc_levels: 1..4
 
-
-kramdown:
-  input: GFM        # use Github Flavored Markdown !important
-  syntax_highlighter: rouge
-  default_lang: bash
