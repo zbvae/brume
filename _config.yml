@@ -13,7 +13,8 @@ color_scheme: azul
 markdown: kramdown
 toc_levels: 1..4
 
-exclude: /commit_post.sh /new_post.sh /startup.sh
+exclude: [.sh]
+keep_files: ['.git','.svn']
 
 kramdown:
   input: GFM        # use Github Flavored Markdown !important
