@@ -11,7 +11,7 @@ color_scheme: azul
 markdown: kramdown
 toc_levels: 1..4
 
-exclude: [.sh]
+exclude: ['.sh']
 keep_files: ['.git','.svn']
 
 kramdown:
