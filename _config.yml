@@ -5,6 +5,7 @@ description: My personal blog using jekyll theme.
 highlighter: rouge
 permalink: /:title
 
+url: 
 baseurl: http://www.loczb.com
 
 # Custom options:
