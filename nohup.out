@@ -1402,3 +1402,63 @@ Configuration file: /Users/zhangbin/blog/_config.yml
                     about/index.md
                     ...done in 0.954844 seconds.
                     
+      Regenerating: 1 file(s) changed at 2019-02-17 19:01:44
+                    nohup.out
+                    ...done in 0.934767 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-17 19:03:04
+                    nohup.out
+                    ...done in 0.806019 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-17 19:03:13
+                    nohup.out
+                    ...done in 0.801384 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-17 19:07:48
+                    nohup.out
+                    ...done in 0.847773 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-17 19:10:56
+                    about/index.md
+                    ...done in 0.851427 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-17 19:11:24
+                    about/index.md
+                    ...done in 0.836003 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-17 19:11:46
+                    nohup.out
+                    ...done in 0.839369 seconds.
+                    
+[2019-02-17 19:11:59] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:15 
+	/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/webrick/server.rb:314:in `block in start_thread'
+      Regenerating: 1 file(s) changed at 2019-02-17 19:12:25
+                    nohup.out
+                    ...done in 0.882321 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-17 19:12:37
+                    nohup.out
+                    ...done in 0.910782 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-17 19:12:42
+                    nohup.out
+                    ...done in 0.920218 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-17 19:12:47
+                    nohup.out
+                    ...done in 0.817865 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-17 19:12:52
+                    nohup.out
+                    ...done in 0.769915 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-17 21:07:38
+                    nohup.out
+                    ...done in 0.821218 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-02-17 21:12:01
+                    nohup.out
+                    ...done in 0.82115 seconds.
+                    

@@ -2,14 +2,20 @@ title: ZBVAE
 author: Billy Zhang
 description: My personal blog using jekyll theme.
 
-highlighter: null
+highlighter: rouge
 permalink: /:title
 
-url: 
-baseurl:
+baseurl: http://www.loczb.com
 
 # Custom options:
 # color_scheme: azul|ruby|amber|avocado
 color_scheme: azul
 markdown: kramdown
 toc_levels: 1..4
+
+exclude: /commit_post.sh /new_post.sh /startup.sh
+
+kramdown:
+  input: GFM        # use Github Flavored Markdown !important
+  syntax_highlighter: rouge
+  default_lang: bash
