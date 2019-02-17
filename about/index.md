@@ -5,7 +5,7 @@ title: About
 <center><font style="font-style:bold; font-weight:20">附庸风雅，文艺出行!</font> </center>
 
 ---
-
+<center><img src="/images/aboutme.jpg" alt="about me" /></center>
 张彬，字**宏文**，一个不甘落后的程序员，Billy Zhang! 本硕毕业于中南大学，现就职于***服务有限公司。
 
 爱好广泛:  喜欢阅读，喜欢编程， 喜欢旅行

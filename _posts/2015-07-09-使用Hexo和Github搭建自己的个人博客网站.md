@@ -32,7 +32,7 @@ tags: [技术交流]
 
 这时候，可以选择在Dos命令行输入`node -v`和`npm -v`，如果出现以下内容
 
-<center> ![node&npm](/images/node&npm.png) </center>
+<center><img src="/images/node&npm.png" alt="node&npm" /> </center>
 
 说明你已完成node.js的安装和配置。
 
@@ -204,7 +204,7 @@ Hexo默认主题是landscape放置在MyHexoBlog主目录下的themes目录下。
 
 为了将你的域名绑定到github page，首先在本地输入`ping username.github.io`得到ip地址，然后登陆你的域名管理器(在哪买的，你就去哪吧)，添加解析，A类解析，@和www记录配套，输入上面得到的ip地址，完成。
 
-<center> ![domain](/images/domain.png) </center>
+<center> <img src="/images/domain.png" alt="domain"> </center>
 
 最后一步工作就是，在你的远程仓库主目录下，新建CNAME文件，里面输入`你的域名`，注意这里的域名不需要任何如www等的前缀。
 

@@ -246,4 +246,4 @@ Echarts的使用方式可以分为**AMD模块化导入**和**单文件导入**�
 
 给一个本程序生成的静态图片如下：
 
-<center>![散点图，样式为infographic](/images/scatter1.png)![散点图，样式为shine](/images/scatter2.png)</center>
+<center><img src="/images/scatter1.png" alt="散点图，样式为infographic" /><img src="/images/scatter2.png" alt="散点图，样式为shine" /></center>
