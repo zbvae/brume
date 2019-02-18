@@ -45,7 +45,6 @@ hr,
 .fluid-width-video-wrapper,
 .highlight {
   margin-bottom: 20px;
-  word-break: break-all;
 }
 
 blockquote {
@@ -87,7 +86,6 @@ p code {
   background-color: #f8f8f8;
   border-radius: 3px;
   white-space: nowrap;
-  word-break: break-all;
 }
 
 table {

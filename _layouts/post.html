@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+<!-- 在正文开头添加网易云音乐插件 -->
+{% if page.music-id %}
+    {% include cloud-music.html %}
+{% endif %} 
 
 <article class="single row gutters">
   <time class="published" datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date_to_long_string }}</time>
@@ -8,3 +12,18 @@ layout: default
 
   {{ content }}
 </article>
+
+<div id="gitmentContainer"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+    owner: 'zbvae',
+    repo: 'zbvae.github.io',
+    oauth: {
+        client_id: 'ee0f38ac0e21f22e7543',
+        client_secret: '538f7d9dc3fb2a07bfe4302535ef1a8d4dcf146d',
+    },
+});
+gitment.render('gitmentContainer');
+</script>
