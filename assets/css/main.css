@@ -45,11 +45,13 @@ hr,
 .fluid-width-video-wrapper,
 .highlight {
   margin-bottom: 20px;
+  word-break: break-all;
 }
 
 blockquote {
   padding: 0 30px;
   border-left: 2px solid #C6C6C6;
+  word-break: break-all;
 }
 
 
@@ -85,6 +87,7 @@ p code {
   background-color: #f8f8f8;
   border-radius: 3px;
   white-space: nowrap;
+  word-break: break-all;
 }
 
 table {
@@ -310,10 +313,12 @@ footer {
   background-color: #272822;
   color: #f8f8f2;
   line-height: 1;
+  word-break: break-all;
 }
 
 .highlight code {
   font-size: .7rem;
+  word-break: break-all;
 }
 
 /*
