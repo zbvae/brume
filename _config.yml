@@ -5,8 +5,6 @@ description: My personal blog using jekyll theme.
 highlighter: rouge
 permalink: /:title
 
-url: https://www.loczb.com
-
 # Custom options:
 # color_scheme: azul|ruby|amber|avocado
 color_scheme: azul
