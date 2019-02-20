@@ -18,3 +18,9 @@ kramdown:
   input: GFM        # use Github Flavored Markdown !important
   syntax_highlighter: rouge
   default_lang: bash
+
+# Comment setting
+comments :
+  provider : duoshuo
+  duoshuo :
+    short_name : zbbk
