@@ -40,4 +40,4 @@ fi
 # edit file with vim
 # vim _posts/$FILE_NAME
 # edit file with typora
-open -a /Applications/Typora.app _posts/$FILE_NAME
+typora _posts/$FILE_NAME
